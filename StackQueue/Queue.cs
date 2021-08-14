@@ -27,6 +27,29 @@ namespace StackQueue
             Console.WriteLine($"{node.data} appended into queue ");
         }
 
+        // method to remove data from queue 
+        public void Dequeue()
+        {
+            Node temp = this.head;
+            if (temp == null)
+            {
+                Console.WriteLine("Queue is Empty");
+                return;
+            }
+            Console.WriteLine($"Dequeue : {this.head.data}");
+            this.head = this.head.next;
+        }
+
+        // Remove all until queue is Empty
+        public void Empty()
+        {
+            while (this.head != null)
+            {
+                Dequeue();
+                Display();
+            }
+        }
+
         // method to display queue
         public void Display()
         {

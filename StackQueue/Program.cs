@@ -32,6 +32,7 @@ namespace StackQueue
             queue.Enqueue(70);
             queue.Display();
 
+            queue.Empty();
         }
     }
 }
