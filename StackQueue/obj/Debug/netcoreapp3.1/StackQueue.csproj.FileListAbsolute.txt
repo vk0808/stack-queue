@@ -1,0 +1,13 @@
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day14Problems\StackQueue\StackQueue\bin\Debug\netcoreapp3.1\StackQueue.exe
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day14Problems\StackQueue\StackQueue\bin\Debug\netcoreapp3.1\StackQueue.deps.json
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day14Problems\StackQueue\StackQueue\bin\Debug\netcoreapp3.1\StackQueue.runtimeconfig.json
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day14Problems\StackQueue\StackQueue\bin\Debug\netcoreapp3.1\StackQueue.runtimeconfig.dev.json
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day14Problems\StackQueue\StackQueue\bin\Debug\netcoreapp3.1\StackQueue.dll
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day14Problems\StackQueue\StackQueue\bin\Debug\netcoreapp3.1\StackQueue.pdb
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day14Problems\StackQueue\StackQueue\obj\Debug\netcoreapp3.1\StackQueue.csproj.AssemblyReference.cache
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day14Problems\StackQueue\StackQueue\obj\Debug\netcoreapp3.1\StackQueue.AssemblyInfoInputs.cache
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day14Problems\StackQueue\StackQueue\obj\Debug\netcoreapp3.1\StackQueue.AssemblyInfo.cs
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day14Problems\StackQueue\StackQueue\obj\Debug\netcoreapp3.1\StackQueue.csproj.CoreCompileInputs.cache
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day14Problems\StackQueue\StackQueue\obj\Debug\netcoreapp3.1\StackQueue.dll
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day14Problems\StackQueue\StackQueue\obj\Debug\netcoreapp3.1\StackQueue.pdb
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day14Problems\StackQueue\StackQueue\obj\Debug\netcoreapp3.1\StackQueue.genruntimeconfig.cache
