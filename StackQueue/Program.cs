@@ -18,6 +18,9 @@ namespace StackQueue
 
             stack.Push(56);
             stack.Display();
+
+            stack.Empty();
+
         }
     }
 }
